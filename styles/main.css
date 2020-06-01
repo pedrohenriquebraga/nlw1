@@ -38,6 +38,7 @@ posicionamentos, alinhamentos
     height: 100vh;
     background: url('../assets/home-background.svg') no-repeat;
     background-position: 35vw bottom;
+    background-position-y: 8vh;
 }
 
 #page-home .content {
