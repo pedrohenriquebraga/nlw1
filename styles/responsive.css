@@ -29,6 +29,20 @@
     }
 }
 
+@media (max-width: 425px) {
+    #page-home header a {
+        font-size: 16px;
+        
+        position: absolute;
+        bottom: 15px;
+        margin-bottom: 15px;
+        top: 90%;
+
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
 @media (min-width: 1700px) {
     #page-home {
         background-position-x: 40vw;
@@ -41,3 +55,4 @@
     }
 
 }
+
