@@ -60,6 +60,9 @@
         transform: translateX(-50%);
     }
 
+}
+
+@media(max-width: 790px) {
     .items-grid {
         grid-template-columns: auto;
     }
