@@ -13,3 +13,14 @@ Primeiramente você deve instalar o **[NodeJs](https://nodejs.org)**, depois voc
 
 ## 🙂 Minha opinião sobre a NLW? (Baseado na trilha Starter)
 Na minha opinião, o evento NLW foi ótimo em todos os aspectos. O que eu mais gostei foi que, ao separar os iniciantes dos intermediários/avançados foi uma ótima idéia e que funcionou muito bem. Os conteúdo foi repleto de informações e explicações. As tecnologias apresentadas são muito importantes para quem quer seguir na área de desenvolvimento web. Então no geral, o evento foi excelente.
+
+
+### VEJA MAIS SOBRE MIM
+
+ * Acesse meu canal do [YouTube](https://youtube.com/gamesantos)
+ * [Playlist](https://www.youtube.com/playlist?list=PLgjMn24Q0KieV-qjUQuhPn4DWmU5DUsAJ) com vídeos de programação no meu canal 
+ * Me siga no [Instagram](https://instagram.com/pedro_henriquebraga)
+ * Entre no meu [Discord](https://discord.gg/626zVxa)
+ * Veja Meu [LinkedIn](https://www.linkedin.com/in/pedro-henrique-3214251a4)
+
+![Bye Bye!!](https://user-images.githubusercontent.com/62728884/78843508-576f5680-79d9-11ea-9f55-b618848ae94d.gif)
