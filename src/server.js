@@ -73,8 +73,6 @@ server.post("/savepoint", (req, res) => {
                 console.log(err)
                 return res.send('Erro no cadastro!')
             }
-            console.log("Cadastrado com sucesso!!")
-            console.log(this)
 
             res.render('create-point.html', {saved: true})
         }
@@ -98,8 +96,6 @@ server.get("/search", (req, res) => {
         if (err) {
             return console.log(err)
         }
-        console.log("Aqui estão seus registros: ")
-        console.log(rows)
 
         const total = rows.length
 
