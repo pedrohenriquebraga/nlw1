@@ -10,3 +10,6 @@ o ***NunJucks*** para deixar o HTML mais dinâmico e como banco de dados foi usa
 
 ## 🌐 Como testar o site?
 Primeiramente você deve instalar o **[NodeJs](https://nodejs.org)**, depois você deve clonar meu repositório. Depois abra o terminal dentro da pasta raiz no protejo e dê um ```npm start``` e abra seu navegador em ***localhost:3000***.
+
+## 🙂 Minha opinião sobre a NLW? (Baseado na trilha Starter)
+Na minha opinião, o evento NLW foi ótimo em todos os aspectos. O que eu mais gostei foi que, ao separar os iniciantes dos intermediários/avançados foi uma ótima idéia e que funcionou muito bem. Os conteúdo foi repleto de informações e explicações. As tecnologias apresentadas são muito importantes para quem quer seguir na área de desenvolvimento web. Então no geral, o evento foi excelente.
