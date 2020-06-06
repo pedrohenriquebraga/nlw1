@@ -8,6 +8,14 @@ O evento aconteceu entre os dias _01/06_ a _05/06_ às 08:00 (Horário de _Bras�
 O site criado na semana NLW foi o **Ecoleta**, um site onde entidades podem **cadastrar pontos de coleta** de matérias recicláveis ou que não podem ser descartados em qualquer lugar. O site conta com três telas, a Homepage, a página para o cadastro de entidades e página para procurar essas entidades. O site foi totalmente desenvolvido com Javascript e NodeJs. Com o NodeJs foi usado o ***Express*** para a criação de um servidor local,
 o ***NunJucks*** para deixar o HTML mais dinâmico e como banco de dados foi usado o ***SQLite3*** para criar um banco de dados local. Também foi o usado o ***Nodemon*** para um autorefresh da página.
 
+![homepage](https://uploaddeimagens.com.br/images/002/693/721/original/homepage.png?1591451021)
+
+![create-point](https://uploaddeimagens.com.br/images/002/693/728/original/new-point.png?1591451156)
+
+![search-point](https://uploaddeimagens.com.br/images/002/693/741/original/search-point.png?1591451238)
+
+![results](https://uploaddeimagens.com.br/images/002/693/744/original/results.png?1591451281)
+
 ## 🌐 Como testar o site?
 Primeiramente você deve instalar o **[NodeJs](https://nodejs.org/en/download/)**, depois você deve clonar meu repositório. Depois abra o terminal dentro da pasta raiz no protejo e dê um ```npm install``` para instalar as dependências e depois digite ```npm start``` e abra seu navegador em ***localhost:3000***.
 
